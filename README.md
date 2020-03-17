@@ -1,2 +1,5 @@
 # hello-world
-JUST ANOTHER REPOSITORY
+
+HI MFs
+
+Picking shii up bits by pieces...ould be fine, I guess.
